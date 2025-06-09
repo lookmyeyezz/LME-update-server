@@ -1,0 +1,17 @@
+com.android.settings
+com.google.android.gms
+com.android.vending
+com.google.android.youtube
+com.facebook.katana
+jp.naver.line.android
+com.facebook.orca
+com.netflix.mediaclient
+com.samsung
+org.ramathibodi.ramaapp
+com.powervision.mypowerplus
+com.samsung.android.email.provider
+com.sec.android.
+com.google.android.apps.
+com.ss.android.ugc.trill
+com.roblox.client
+com.instagram.android 

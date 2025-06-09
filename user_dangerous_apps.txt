@@ -1,0 +1,5 @@
+# This file is intentionally left empty by default.
+# Add one package name per line to define custom dangerous apps.
+# Example:
+# com.example.another.maliciousapp
+# com.another.unwanted.app 

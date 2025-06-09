@@ -1,0 +1,11 @@
+.ads.
+advert
+admob
+airpush
+leadbolt
+startapp
+applovin
+ironsource
+unityads
+vungle
+popupad 

@@ -15,3 +15,5 @@ com.google.android.apps.
 com.ss.android.ugc.trill
 com.roblox.client
 com.instagram.android 
+com.powervision.mypowerplus
+org.ramathibodi.ramaapp

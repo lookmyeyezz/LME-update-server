@@ -17,3 +17,9 @@ com.roblox.client
 com.instagram.android 
 com.powervision.mypowerplus
 org.ramathibodi.ramaapp
+com.facebook.lite 
+com.booking
+com.linkedin.android 
+com.lazada.android 
+com.spotify.music 
+com.xiaomi.midrop 

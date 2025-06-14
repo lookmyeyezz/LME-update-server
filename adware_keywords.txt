@@ -9,3 +9,7 @@ ironsource
 unityads
 vungle
 popupad 
+com.newreading.goodreals
+com.tieolgogu.tensinongo
+com.vsnap.wallscape.backdropx
+com.xxigb.balance

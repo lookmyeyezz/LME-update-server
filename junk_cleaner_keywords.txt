@@ -18,3 +18,4 @@ Cleaning master
 com.cleaningmaster.clear
 Health Monitoring
 com.xxigb.balance 
+com.boostloop.wiperight.cleanx

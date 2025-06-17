@@ -4,3 +4,4 @@
 # com.example.another.maliciousapp
 # com.another.unwanted.app 
 com.traceheart.redapping
+com.quickqr.scan.qr

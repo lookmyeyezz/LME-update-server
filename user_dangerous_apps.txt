@@ -5,3 +5,28 @@
 # com.another.unwanted.app 
 com.traceheart.redapping
 com.quickqr.scan.qr
+clean
+cleaner
+boost
+booster
+optimizer
+junk
+ramclean
+memoryboost
+cacheclean
+speedup
+fastcharge
+battery.doctor
+batterysaver
+cooler
+phonecooler
+MaxClean
+Cleaning master
+com.cleaningmaster.clear
+Health Monitoring
+com.xxigb.balance 
+com.boostloop.wiperight.cleanx
+files.fileexplorer.filemanager
+storage.manager.ora
+com.magical.smart.alban
+com.anti.virus.security

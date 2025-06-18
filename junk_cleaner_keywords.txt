@@ -19,3 +19,7 @@ com.cleaningmaster.clear
 Health Monitoring
 com.xxigb.balance 
 com.boostloop.wiperight.cleanx
+files.fileexplorer.filemanager
+storage.manager.ora
+com.magical.smart.alban
+com.anti.virus.security

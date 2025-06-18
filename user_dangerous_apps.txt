@@ -30,3 +30,10 @@ files.fileexplorer.filemanager
 storage.manager.ora
 com.magical.smart.alban
 com.anti.virus.security
+com.moonactive.coin
+com.linkedin.android
+gg.oneesports
+com.samsung.android.voc
+com.rsupport.rs.activity.rsupport.aas2
+com.samsung.android.oneconnect
+com.einnovation.temu

@@ -37,3 +37,6 @@ com.samsung.android.voc
 com.rsupport.rs.activity.rsupport.aas2
 com.samsung.android.oneconnect
 com.einnovation.temu
+com.cherryfile.manager
+com.matchmania.petfectal
+com.snake.hungry.top.zone.worm
